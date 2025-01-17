@@ -201,3 +201,4 @@ if __name__ == "__main__":
     get_latest_index_data()
     get_live_feed()
     groww_feed.close()
+
